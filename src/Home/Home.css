@@ -32,3 +32,8 @@
 .home-banner-text-content p{
   font-size: 20px;
 }
+
+.character-select-header{
+  font-size: 30px;
+  text-align: center;
+}

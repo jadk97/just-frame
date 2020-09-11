@@ -1,6 +1,7 @@
 import React from "react";
 import "./Home.css";
 import homeBanner from "../images/home-banner.jpg";
+import CharacterSelect from "./CharacterSelect";
 const Home = (props) => {
   return (
     <div className="home">
@@ -12,7 +13,10 @@ const Home = (props) => {
         </div>
       </div>
       <div className="home-character-select">
-        Choose a character
+        <div className="character-select-header">
+          CHARACTER SELECT
+        </div>
+        <CharacterSelect />
       </div>
     </div>)
 }
