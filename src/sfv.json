@@ -4499,7 +4499,9 @@
       "bDashDist": 99.4,
       "throwHurt": 0.4,
       "throwRange": 0.9,
-      "threeLetterCode": "abg"
+      "threeLetterCode": "abg",
+      "charaSelectIndex": 36,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-abigail-01.png"
     }
   },
   "Akuma": {
@@ -7953,7 +7955,9 @@
       "bDashDist": 109.6,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "gok"
+      "threeLetterCode": "gok",
+      "charaSelectIndex": 4,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-gouki-01.png"
     }
   },
   "Alex": {
@@ -9721,7 +9725,9 @@
       "bDashDist": 110.2,
       "throwHurt": 0.45,
       "throwRange": 0.9,
-      "threeLetterCode": "alx"
+      "threeLetterCode": "alx",
+      "charaSelectIndex": 5,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-alex-01.png"
     }
   },
   "Balrog": {
@@ -12467,7 +12473,9 @@
       "bDashDist": 106.1,
       "throwHurt": 0.35,
       "throwRange": 0.85,
-      "threeLetterCode": "bsn"
+      "threeLetterCode": "bsn",
+      "charaSelectIndex": 34,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-mbison-01.png"
     }
   },
   "Birdie": {
@@ -15927,7 +15935,9 @@
       "vfDashDist": 170.3,
       "throwHurt": 0.3,
       "throwRange": 0.9,
-      "threeLetterCode": "brd"
+      "threeLetterCode": "brd",
+      "charaSelectIndex": 31,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-birdie-01.png"
     }
   },
   "Blanka": {
@@ -18434,7 +18444,9 @@
       "bDashDist": 111.7,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "blk"
+      "threeLetterCode": "blk",
+      "charaSelectIndex": 37,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-blanka-01.png"
     }
   },
   "Cammy": {
@@ -20482,7 +20494,9 @@
       "bDashDist": 118.2,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "cmy"
+      "threeLetterCode": "cmy",
+      "charaSelectIndex": 21,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-cammy-01.png"
     }
   },
   "Chun-Li": {
@@ -23721,7 +23735,9 @@
       "bDashDist": 123.5,
       "throwHurt": 0.3511,
       "throwRange": 0.8461,
-      "threeLetterCode": "cnl"
+      "threeLetterCode": "cnl",
+      "charaSelectIndex": 8,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-chun-li-01.png"
     }
   },
   "Cody": {
@@ -26563,7 +26579,9 @@
       "bDashDist": 84.2,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "cdy"
+      "threeLetterCode": "cdy",
+      "charaSelectIndex": 27,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-cody-01.png"
     }
   },
   "Dhalsim": {
@@ -28378,7 +28396,9 @@
       "bDashDist": 82.5,
       "throwHurt": 0.25,
       "throwRange": 0.85,
-      "threeLetterCode": "dsm"
+      "threeLetterCode": "dsm",
+      "charaSelectIndex": 32,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-dhalsim-01.png"
     }
   },
   "E.Honda": {
@@ -30127,7 +30147,9 @@
       "bDashDist": 95.1,
       "throwHurt": 0.25,
       "throwRange": 0.9,
-      "threeLetterCode": "hnd"
+      "threeLetterCode": "hnd",
+      "charaSelectIndex": 10,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-ehonda-01.png"
     }
   },
   "Ed": {
@@ -31569,7 +31591,9 @@
       "bDashDist": 89.9,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "edo"
+      "threeLetterCode": "edo",
+      "charaSelectIndex": 13,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-ed-01.png"
     }
   },
   "Falke": {
@@ -33006,7 +33030,9 @@
       "bDashDist": 101.5,
       "throwHurt": 0.25,
       "throwRange": 0.85,
-      "threeLetterCode": "flk"
+      "threeLetterCode": "flk",
+      "charaSelectIndex": 2,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-falke-01.png"
     }
   },
   "F.A.N.G": {
@@ -35001,7 +35027,9 @@
       "bDashDist": 135.6,
       "throwHurt": 0.25,
       "throwRange": 0.85,
-      "threeLetterCode": "fan"
+      "threeLetterCode": "fan",
+      "charaSelectIndex": 33,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-fang-01.png"
     }
   },
   "G": {
@@ -38023,7 +38051,9 @@
       "bDashDist": 105.2,
       "throwHurt": 0.25,
       "throwRange": 0.85,
-      "threeLetterCode": "g"
+      "threeLetterCode": "g",
+      "charaSelectIndex": 11,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-g-01.png"
     }
   },
   "Gill": {
@@ -40647,7 +40677,9 @@
       "bDashDist": 124.5,
       "throwHurt": 0.25,
       "throwRange": 0.85,
-      "threeLetterCode": "gil"
+      "threeLetterCode": "gil",
+      "charaSelectIndex": 0,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-gill-01.png"
     }
   },
   "Guile": {
@@ -42531,7 +42563,9 @@
       "bDashDist": 110.5,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "gul"
+      "threeLetterCode": "gul",
+      "charaSelectIndex": 24,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-guile-01.png"
     }
   },
   "Ibuki": {
@@ -44876,7 +44910,9 @@
       "bDashDist": 92.3,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "ibk"
+      "threeLetterCode": "ibk",
+      "charaSelectIndex": 15,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-ibuki-01.png"
     }
   },
   "Juri": {
@@ -46761,7 +46797,9 @@
       "vfDashDist": 186.3,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "jri"
+      "threeLetterCode": "jri",
+      "charaSelectIndex": 14,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-juri-01.png"
     }
   },
   "Kage": {
@@ -49118,7 +49156,9 @@
       "bDashDist": 82.4,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "kge"
+      "threeLetterCode": "kge",
+      "charaSelectIndex": 1,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-kage-01.png"
     }
   },
   "Karin": {
@@ -51010,7 +51050,9 @@
       "bDashDist": 115.8,
       "throwHurt": 0.25,
       "throwRange": 0.85,
-      "threeLetterCode": "krn"
+      "threeLetterCode": "krn",
+      "charaSelectIndex": 18,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-karin-01.png"
     }
   },
   "Ken": {
@@ -53583,7 +53625,9 @@
       "bDashDist": 127.7,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "ken"
+      "threeLetterCode": "ken",
+      "charaSelectIndex": 20,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-ken-01.png"
     }
   },
   "Kolin": {
@@ -56606,7 +56650,9 @@
       "bDashDist": 105,
       "throwHurt": 0.35,
       "throwRange": 0.85,
-      "threeLetterCode": "kln"
+      "threeLetterCode": "kln",
+      "charaSelectIndex": 25,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-kolin-01.png"
     }
   },
   "Laura": {
@@ -59134,7 +59180,9 @@
       "bDashDist": 108,
       "throwHurt": 0.41,
       "throwRange": 0.85,
-      "threeLetterCode": "lar"
+      "threeLetterCode": "lar",
+      "charaSelectIndex": 16,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-laura-01.png"
     }
   },
   "Lucia": {
@@ -61661,7 +61709,9 @@
       "bDashDist": 100.6,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "lca"
+      "threeLetterCode": "lca",
+      "charaSelectIndex": 39,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-lucia-01.png"
     }
   },
   "M.Bison": {
@@ -64005,7 +64055,9 @@
       "vfDashDist": 227,
       "throwHurt": 0.25,
       "throwRange": 0.9,
-      "threeLetterCode": "veg"
+      "threeLetterCode": "veg",
+      "charaSelectIndex": 30,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-vega-01.png"
     }
   },
   "Menat": {
@@ -66044,7 +66096,9 @@
       "bDashDist": "112.1",
       "throwHurt": "0.25",
       "throwRange": "0.85",
-      "threeLetterCode": "mnt"
+      "threeLetterCode": "mnt",
+      "charaSelectIndex": 3,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-menat-01.png"
     }
   },
   "Nash": {
@@ -68233,7 +68287,9 @@
       "bDashDist": 110,
       "throwHurt": 0.25,
       "throwRange": 0.85,
-      "threeLetterCode": "nsh"
+      "threeLetterCode": "nsh",
+      "charaSelectIndex": 19,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-nash-01.png"
     }
   },
   "Necalli": {
@@ -72432,7 +72488,9 @@
       "vbDashDist": 130,
       "throwHurt": 0.324,
       "throwRange": 0.814,
-      "threeLetterCode": "ncl"
+      "threeLetterCode": "ncl",
+      "charaSelectIndex": 23,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-necalli-01.png"
     }
   },
   "Poison": {
@@ -74210,7 +74268,9 @@
       "bDashDist": 116.3,
       "throwHurt": 0.25,
       "throwRange": 0.85,
-      "threeLetterCode": "psn"
+      "threeLetterCode": "psn",
+      "charaSelectIndex": 28,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-poison-01.png"
     }
   },
   "Rashid": {
@@ -77254,7 +77314,9 @@
       "bDashDist": 109.7,
       "throwHurt": 0.402,
       "throwRange": 0.852,
-      "threeLetterCode": "rsd"
+      "threeLetterCode": "rsd",
+      "charaSelectIndex": 6,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-rashid-01.png"
     }
   },
   "R.Mika": {
@@ -79092,7 +79154,9 @@
       "bDashDist": 120,
       "throwHurt": 0.25,
       "throwRange": 0.85,
-      "threeLetterCode": "rmk"
+      "threeLetterCode": "rmk",
+      "charaSelectIndex": 7,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-rmika-01.png"
     }
   },
   "Ryu": {
@@ -81536,7 +81600,9 @@
       "bDashDist": 97.3,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "ryu"
+      "threeLetterCode": "ryu",
+      "charaSelectIndex": 9,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-ryu-01.png"
     }
   },
   "Sagat": {
@@ -83300,7 +83366,9 @@
       "bDashDist": 111.5,
       "throwHurt": 0.25,
       "throwRange": 0.85,
-      "threeLetterCode": "sgt"
+      "threeLetterCode": "sgt",
+      "charaSelectIndex": 38,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-sagat-01.png"
     }
   },
   "Sakura": {
@@ -85554,7 +85622,9 @@
       "bDashDist": 99.8,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "skr"
+      "threeLetterCode": "skr",
+      "charaSelectIndex": 12,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-sakura-01.png"
     }
   },
   "Seth": {
@@ -89179,7 +89249,9 @@
       "bDashDist": 97.3,
       "throwHurt": 0.25,
       "throwRange": 0.8,
-      "threeLetterCode": "sth"
+      "threeLetterCode": "sth",
+      "charaSelectIndex": 29,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-seth-01.png"
     }
   },
   "Urien": {
@@ -91874,7 +91946,9 @@
       "bDashDist": 118,
       "throwHurt": 0.25,
       "throwRange": 0.85,
-      "threeLetterCode": "urn"
+      "threeLetterCode": "urn",
+      "charaSelectIndex": 35,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-urien-01.png"
     }
   },
   "Vega": {
@@ -94146,7 +94220,9 @@
       "bDashDist": 122.5,
       "throwHurt": 0.4087,
       "throwRange": 0.8557,
-      "threeLetterCode": "blr"
+      "threeLetterCode": "blr",
+      "charaSelectIndex": 22,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-balrog-01.png"
     }
   },
   "Zangief": {
@@ -96098,7 +96174,9 @@
       "bDashDist": 106.5,
       "throwHurt": 0.4,
       "throwRange": 0.9,
-      "threeLetterCode": "zgf"
+      "threeLetterCode": "zgf",
+      "charaSelectIndex": 17,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-zangief-01.png"
     }
   },
   "Zeku (Old)": {
@@ -98593,7 +98671,9 @@
       "bDashDist": 128.6,
       "throwHurt": 0.3,
       "throwRange": 0.8,
-      "threeLetterCode": "zku"
+      "threeLetterCode": "zku",
+      "charaSelectIndex": 26,
+      "charaPortrait": "http://www.sfgalleries.net/art/sf5/sf5/renders/sfv-render-zeku-01.png"
     }
   },
   "Zeku (Young)": {
