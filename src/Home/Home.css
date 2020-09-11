@@ -1,0 +1,34 @@
+.home {
+  display: flex;
+  flex-direction: column;
+}
+
+.home-banner-container{
+  box-sizing: border-box;
+  display: flex;
+  background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url("../images/home-banner.jpg");
+  height: 450px;
+  width: 100%;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.home-banner-text-content{
+  text-align: left;    
+  width: 100%;
+  margin: 5% auto;
+  box-sizing: border-box;
+  color: white;
+  padding-left: 10vw;
+
+}
+
+.home-banner-text-content h1{
+  font-size: 40px;
+}
+
+.home-banner-text-content p{
+  font-size: 20px;
+}
