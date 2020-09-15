@@ -1,13 +1,15 @@
 .character-overview{
   height: 480px;
-  opacity: 0.8;
+  /* opacity: 0.8; */
 
   font-family: "Roboto", sans-serif;
   font-size: 20px;
+  position: relative;
 }
 
 .character-overview img{
   /* filter: grayscale(100%); */
+  height: 480px;
 }
 
 .overlay{
@@ -21,7 +23,7 @@ background-color: #000;
 
 .character-description{
   position: absolute;
-  top: 15%;
+  top: 10%;
   left: 38%;
 }
 
