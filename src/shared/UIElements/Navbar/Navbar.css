@@ -1,0 +1,16 @@
+.navbar{
+  display: flex;
+  vertical-align: top;
+  align-items: center;
+  padding: 1%;
+  padding-left: 2%;
+}
+
+
+.navbar .navbar-elements ul{
+  list-style: none;
+}
+
+.navbar .navbar-elements{
+  padding-left: 2%;
+}

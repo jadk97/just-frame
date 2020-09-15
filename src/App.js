@@ -8,13 +8,18 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import Navbar from './shared/UIElements/Navbar/Navbar';
 
 function App() {
 
   let routes = (
     <React.Fragment>
+      <Navbar />
       <Switch>
         <Route path="/">
+          <Home />
+        </Route>
+        <Route path="/character/:character">
           <Home />
         </Route>
       </Switch>

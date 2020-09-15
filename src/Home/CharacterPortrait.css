@@ -11,12 +11,13 @@
   height: 79px;
   width: 76px;
   clip-path: polygon(0 0, 75% 0, 100% 100%, 25% 100%);
-
+  opacity: 0.5;
 }
 
 .character-select-portrait:hover{
   background: white;
   cursor: pointer;
+  opacity: 1;
 }
 
 
@@ -28,7 +29,9 @@
   width: 71px;
   bottom: 3%;
   right: 3%;
- background: #15202b;
+ /* background: #15202b; */
+ background: black;
+  
  /* z-index: 10; */
  clip-path: polygon(0 0, 75% 0, 100% 100%, 25% 100%);
 }

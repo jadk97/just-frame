@@ -2,7 +2,9 @@ import React from "react";
 import SFVData from "../sfv.json";
 import CharacterPortrait from "./CharacterPortrait";
 import "./CharacterSelect.css";
+import { useHistory } from "react-router-dom";
 const CharacterSelect = (props) => {
+  const history = useHistory();
   let leftCharacterPortraits = [];
   let rightCharacterPortraits = [];
   for (let character in SFVData) {
@@ -18,6 +20,11 @@ const CharacterSelect = (props) => {
   rightCharacterPortraits.sort((a, b) => a.stats.charaSelectIndex - b.stats.charaSelectIndex)
   console.log(leftCharacterPortraits);
   console.log(rightCharacterPortraits);
+
+  const characterPortraitClickHandler = (name) => {
+    console.log(name);
+    history.push(`/character/${name}`)
+  }
   return (
     <div className="character-select">
       <div className="character-select-coloumn clmn-left">
@@ -26,7 +33,7 @@ const CharacterSelect = (props) => {
             if (index <= 9)
               return (
 
-                <CharacterPortrait key={"portrait" + character.stats.charaSelectIndex} portrait={character.stats.charaPortrait} />
+                <CharacterPortrait clickHandler={() => characterPortraitClickHandler(character.name)} key={"portrait" + character.stats.charaSelectIndex} portrait={character.stats.charaPortrait} />
               )
           })}
         </div>
@@ -35,7 +42,7 @@ const CharacterSelect = (props) => {
             if (index > 9)
               return (
 
-                <CharacterPortrait key={"portrait" + character.stats.charaSelectIndex} portrait={character.stats.charaPortrait} />
+                <CharacterPortrait clickHandler={() => characterPortraitClickHandler(character.name)} key={"portrait" + character.stats.charaSelectIndex} portrait={character.stats.charaPortrait} />
               )
           })}
         </div>
@@ -50,7 +57,7 @@ const CharacterSelect = (props) => {
             if (index <= 9)
               return (
 
-                <CharacterPortrait orientation={"right"} key={"portrait" + character.stats.charaSelectIndex} portrait={character.stats.charaPortrait} />
+                <CharacterPortrait clickHandler={() => characterPortraitClickHandler(character.name)}  orientation={"right"} key={"portrait" + character.stats.charaSelectIndex} portrait={character.stats.charaPortrait} />
               )
           })}
         </div>
@@ -59,7 +66,7 @@ const CharacterSelect = (props) => {
             if (index > 9)
               return (
 
-                <CharacterPortrait orientation={"right"} key={"portrait" + character.stats.charaSelectIndex} portrait={character.stats.charaPortrait} />
+                <CharacterPortrait clickHandler={() => characterPortraitClickHandler(character.name)} orientation={"right"} key={"portrait" + character.stats.charaSelectIndex} portrait={character.stats.charaPortrait} />
               )
           })}
         </div>
