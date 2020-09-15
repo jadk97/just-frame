@@ -9,6 +9,7 @@ import {
   Link
 } from "react-router-dom";
 import Navbar from './shared/UIElements/Navbar/Navbar';
+import CharacterData from './CharacterData/CharacterData';
 
 function App() {
 
@@ -16,10 +17,10 @@ function App() {
     <React.Fragment>
       <Navbar />
       <Switch>
-        <Route path="/">
-          <Home />
-        </Route>
         <Route path="/character/:character">
+          <CharacterData />
+        </Route>
+        <Route exact path="/">
           <Home />
         </Route>
       </Switch>

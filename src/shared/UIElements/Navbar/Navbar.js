@@ -1,12 +1,12 @@
 import React from "react";
 import "./Navbar.css";
-
+import { NavLink } from "react-router-dom";
 const Navbar = (props) => {
 
   return (
     <nav className="navbar">
       <div className="navbar-logo-container">
-        JUST FRAME
+        <NavLink to="/">JUST FRAME</NavLink>
       </div>
 
       <div className="navbar-elements">
